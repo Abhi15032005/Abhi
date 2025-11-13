@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Shadow Calculator",
+  "description": "A visually appealing and interactive web application to calculate and visualize the length of a shadow based on an object's height and the angle of a light source (the sun).",
+  "requestFramePermissions": []
+}
